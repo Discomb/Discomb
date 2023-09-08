@@ -19,6 +19,8 @@
   </a>
 
 ### Languages and tools:
+<p align="left">
+
 <img width="5%" title="Java" src="media/icons/Java.svg">
 <img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
 <img width="5%" title="Selenide" src="media/icons/Selenide.svg">
@@ -29,3 +31,4 @@
 <img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
 <img width="5%" title="Jira" src="media/icons/Jira.svg">
 
+</p>
