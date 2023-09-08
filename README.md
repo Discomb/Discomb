@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
-### Languages and tools
+### Languages and tools:
 <p  align="center"> 
 
 <img width="5%" title="Java" src="media/icons/Java.svg">
