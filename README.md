@@ -19,8 +19,6 @@
   </a>
 
 ### Languages and tools:
-<p  align="center"> 
-
 <img width="5%" title="Java" src="media/icons/Java.svg">
 <img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
 <img width="5%" title="Selenide" src="media/icons/Selenide.svg">
@@ -30,7 +28,4 @@
 <img width="5%" title="Allure TestOps" src="media/icons/Allure_TO.svg">
 <img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
 <img width="5%" title="Jira" src="media/icons/Jira.svg">
-
-
-</p>
 
