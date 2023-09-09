@@ -5,6 +5,10 @@
 - I'm currently working on strengthening my Test Automation skills with Java
 - I speak **Russian** (native), **English** (B2)
 
+### My training projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Discomb&repo=devzion-test-project&theme=solarized-light)](https://github.com/Discomb/devzion-test-project)
+
 ### How to reach me:
   <a href="https://t.me/penderfynydd">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
