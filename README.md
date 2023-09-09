@@ -2,7 +2,7 @@
 <h3 align="center">QA engineer</h3>
 
 - I write quality **Manual and Automated tests**
-- I'm currently studying Test Automation with Java
+- I'm currently working on strengthening my Test Automation skills with Java
 - I speak **Russian** (native), **English** (B2)
 
 ### How to reach me:
